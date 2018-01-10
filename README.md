@@ -1,4 +1,4 @@
-# Vnvalidation of sprite hash
+# Invalidation of sprite hash
 
 The purpose of this repository is to provide a simplified and reproducible example of where the hash of the sprite is invalidated, even if the source does not change.
 
